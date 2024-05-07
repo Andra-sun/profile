@@ -102,7 +102,7 @@ alt="Exploding Head" width="40" height="40" />   Conhecimentos:</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Andra-sun&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=true&border_radius=20&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andra-sun&hide_border=true&radius=20&theme=react&area=true&order=5" height="3 00" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andra-sun&hide_border=true&radius=20&theme=react&area=true&order=5" height="400" alt="activity-graph graph"  />
 </div>
 
 ###
