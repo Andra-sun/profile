@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=36&duration=4991&pause=959&color=4704F7&center=true&vCenter=true&random=false&width=435&lines=Oi+%F0%9F%91%8B!;Me+chamo+Camile;mas+pode+me+chamar+de+Andra;%3A))](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=36&duration=4991&pause=959&color=4704F7&center=true&vCenter=true&random=false&width=435&lines=Oi+%F0%9F%91%8B!;Me+chamo+Camile;mas+pode+me+chamar+de+Andra;%3A)
 
 ###
 
