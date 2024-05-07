@@ -2,10 +2,18 @@
 
 ###
 
+<h4 align="left">Tenho 18 anos e adoro o mundo do desenvolvimento web, principalmente a área do front-end, porem também gosto de me aventurar em outras áreas como o desenvolvimento de jogos por exemplo.</h4>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andra-sun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andra-sun&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andra-sun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andra-sun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h3 align="left">Conhecimentos:</h3>
 
 ###
 
@@ -49,6 +57,10 @@
 
 ###
 
+<h3 align="left">Contato:</h3>
+
+###
+
 <div align="left">
   <a href="https://www.instagram.com/c.a.m.i_le/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -71,27 +83,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Andra-sun&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Andra-sun/Andra-sun/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Andra-sun/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Boooooo">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Boooooo&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Andra-sun&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
