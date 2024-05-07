@@ -1,25 +1,34 @@
-<h2 align="left">Oi 👋! Me chamo Camile mas pode me chamar de Andra :)</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=36&duration=4991&pause=959&color=4704F7&center=true&vCenter=true&random=false&width=435&lines=Oi+%F0%9F%91%8B!;Me+chamo+Camile;mas+pode+me+chamar+de+Andra;%3A))](https://git.io/typing-svg)
 
 ###
 
-<h4 align="left">Tenho 18 anos e adoro o mundo do desenvolvimento web, principalmente a área do front-end, porem também gosto de me aventurar em outras áreas como o desenvolvimento de jogos por exemplo.</h4>
+<h3 align="left">   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="40" height="40" />   Sobre mim:</h3>
+
+###
+
+<h4 align="left">Tenho 18 anos e adoro o mundo do desenvolvimento web, principalmente a área do front-end, porem também gosto de me aventurar em outras áreas como o desenvolvimento de jogos por exemplo.
+</h4>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andra-sun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andra-sun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andra-sun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true&order=1&border_radius=3" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andra-sun&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=5&border_radius=20" height="200" alt="languages graph"  />
 </div>
 
 ###
 
 <img align="right" height="200" src="https://31.media.tumblr.com/tumblr_lr6c6eiVqB1r039o7o1_400.gif"  />
 
+<h3 align="left">
+<img
+src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png"
+alt="Exploding Head" width="40" height="40" />   Conhecimentos:</h3>
+
+###
+###
 ###
 
-<h3 align="left">Conhecimentos:</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -60,8 +69,10 @@
 </div>
 
 ###
+###
+###
 
-<h3 align="left">Contato:</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Exploding Head" width="40" height="40" />   Contato:</h3>
 
 ###
 
@@ -85,8 +96,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Andra-sun&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andra-sun&radius=16&theme=react&area=true&order=5" height="200" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=Andra-sun&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=true&border_radius=20&order=3" height="200" alt="streak graph"  />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andra-sun&hide_border=true&radius=20&theme=react&area=true&order=5" height="500" alt="activity-graph graph"  />
 </div>
 
 ###
