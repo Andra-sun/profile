@@ -1,5 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=36&duration=3000&pause=959&color=4704F7&center=true&vCenter=true&random=false&width=600&lines=Oi+%F0%9F%91%8B!;Me+chamo+Camile;mas+pode+me+chamar+de+Andra;:%29)
 
+<hr>
+
 ###
 
 <h3 align="left">   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="40" height="40" />   Sobre mim:</h3>
