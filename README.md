@@ -9,12 +9,15 @@
 <h4 align="left">Tenho 18 anos e adoro o mundo do desenvolvimento web, principalmente a área do front-end, porem também gosto de me aventurar em outras áreas como o desenvolvimento de jogos por exemplo.
 </h4>
 
+<hr>
+
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Andra-sun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true&order=1&border_radius=24&card_width=500" height="200" alt="stats 
   graph"  />
   
+
   ###
   ###
   
@@ -23,6 +26,11 @@
 
 ###
 
+<hr>
+
+###
+
+
 <img align="right" height="200" src="https://31.media.tumblr.com/tumblr_lr6c6eiVqB1r039o7o1_400.gif"  />
 
 <h3 align="left">
@@ -30,7 +38,6 @@
 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png"
 alt="Exploding Head" width="40" height="40" />   Conhecimentos:</h3>
 
-###
 ###
 ###
 
@@ -74,7 +81,9 @@ alt="Exploding Head" width="40" height="40" />   Conhecimentos:</h3>
 </div>
 
 ###
-###
+
+<hr>
+
 ###
 
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Exploding Head" width="40" height="40" />   Contato:</h3>
@@ -97,16 +106,18 @@ alt="Exploding Head" width="40" height="40" />   Conhecimentos:</h3>
 </div>
 
 ###
+<hr>
 
 <br clear="both">
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Andra-sun&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=true&border_radius=20&order=3" height="200" alt="streak graph"  />
+  <hr>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andra-sun&hide_border=true&radius=20&theme=react&area=true&order=5" height="400" alt="activity-graph graph"  />
 </div>
 
 ###
-
+<hr>
 <img src="https://raw.githubusercontent.com/Andra-sun/Andra-sun/output/snake.svg" alt="Snake animation" />
 
 ###
