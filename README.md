@@ -99,7 +99,7 @@ alt="Exploding Head" width="40" height="40" />   Conhecimentos:</h3>
   <a href="andra_sun" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/camile-andrade-guimar%C3%A3es-41b238300/" target="_blank">
+  <a href="https://www.linkedin.com/in/camile-andrade-guimaraes/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="camilea_guimaraes@outlook.com" target="_blank">
