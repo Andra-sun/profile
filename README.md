@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andra-sun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true&order=1&border_radius=3" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andra-sun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true&order=1&border_radius=24" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andra-sun&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=5&border_radius=20" height="200" alt="languages graph"  />
 </div>
 
@@ -97,8 +97,7 @@ alt="Exploding Head" width="40" height="40" />   Conhecimentos:</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Andra-sun&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=true&border_radius=20&order=3" height="200" alt="streak graph"  />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andra-sun&hide_border=true&radius=20&theme=react&area=true&order=5" height="500" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andra-sun&hide_border=true&radius=20&theme=react&area=true&order=5" height="3 00" alt="activity-graph graph"  />
 </div>
 
 ###
