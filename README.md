@@ -1,13 +1,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=36&duration=3000&pause=959&color=ffde26&center=true&vCenter=true&random=false&width=600&lines=Oi+%F0%9F%91%8B!;Me+chamo+Camile;mas+pode+me+chamar+de+Andra;:%29)
+
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 <br><br></div>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-
 
 ###
 
@@ -25,11 +24,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Andra-sun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true&order=1&border_radius=24&card_width=500" height="200" alt="stats 
   graph"  />
-  
 
-  ###
-  ###
-  
+
+###
+
+###
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andra-sun&locale=pt-br&hide_title=false&layout=compact&card_width=415&langs_count=5&theme=tokyonight&hide_border=true&order=5&border_radius=20" height="200" alt="languages graph"  />
 </div>
 
@@ -39,7 +39,6 @@
 
 ###
 
-
 <img align="right" height="200" src="https://31.media.tumblr.com/tumblr_lr6c6eiVqB1r039o7o1_400.gif"  />
 
 <h3 align="left">
@@ -48,8 +47,8 @@ src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis
 alt="Exploding Head" width="40" height="40" />   Conhecimentos:</h3>
 
 ###
-###
 
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -160,6 +159,7 @@ width="900"> -->
 </div>
 
 ###
+
 <hr>
 <img src="https://raw.githubusercontent.com/Andra-sun/Andra-sun/output/snake.svg" alt="Snake animation" />
 
