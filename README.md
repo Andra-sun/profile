@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="left">Tenho 18 anos e adoro o mundo do desenvolvimento web, principalmente a área do front-end, porem também gosto de me aventurar em outras áreas como o desenvolvimento de jogos por exemplo.
+<h4 align="left">Adoro o mundo do desenvolvimento web, principalmente a área do front-end, porem também gosto de me aventurar em outras áreas como o desenvolvimento de jogos por exemplo.
 </h4>
 
 <hr>
