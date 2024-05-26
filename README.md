@@ -4,8 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=36&duration=3000&pause=959&color=ffde26&center=true&vCenter=true&random=false&width=900&lines=Oi+%F0%9F%91%8B!;Me+chamo+Camile;mas+pode+me+chamar+de+Andra;:%29)
 
-<div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-<br><br></div>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
 ###
@@ -164,3 +163,5 @@ width="900"> -->
 <img src="https://raw.githubusercontent.com/Andra-sun/Andra-sun/output/snake.svg" alt="Snake animation" />
 
 ###
+<div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+<br><br></div>
